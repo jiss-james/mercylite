@@ -22,25 +22,7 @@
     <body>
         
         <!--Navbar-->
-        <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
-          <a class="navbar-brand" href="homepage.html">Mercy Lite</a>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav">
-              <li class="nav-item">
-                <a class="nav-link" href="aboutus.html">About US</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="blog.html">Blog</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="outreach.html">Out Reaches</a>
-              </li>
-            </ul>
-          </div>
-        </nav>
+        <?php include_once("navbar.html") ?>
         
         <br/>
         <br/>
@@ -58,20 +40,7 @@
         </div>
         
         <!-- Footer -->
-        <footer class="footer">
-            <div class="container">
-                <span class="text-muted">Follow us on:</span>
-                <a href="https://www.facebook.com/mercy.lite.71">
-                    <i class="fab fa-facebook"></i>
-                </a>
-                <a href="https://www.instagram.com/mercy_lite/?hl=en">
-                    <i class="fab fa-instagram"></i>
-                </a>
-                <a href="https://github.com/jiss-james/mercylite">
-                    <i class="fab fa-github"></i>
-                </a>
-            </div>
-        </footer>
+        <?php include_once("footer.html") ?>
         
     </body>
 </html>
