@@ -22,7 +22,7 @@
     <body>
         
         <!--Navbar-->
-        <?php include_once("navbar.html") ?>
+        <?php include("navbar.html") ?>
         
         <br/>
         <br/>
@@ -50,7 +50,7 @@
         </div>
         
         <!--Footer-->
-        <?php include_once("footer.html") ?>
+        <?php include("footer.html") ?>
         
     </body>
 </html>
