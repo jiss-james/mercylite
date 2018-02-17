@@ -34,6 +34,9 @@
               What we are all about!
             </div>
             
+            <br/>
+            <br/>
+
           <div class="alert alert-light" role="alert" data-spy="scroll">
             <!--Tab and Content-->
             <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
@@ -48,7 +51,7 @@
                 </a>
               </li>
             </ul>
-            <div class="tab-content" id="pills-tabContent">
+            <div class="tab-content" id="pills-tabContent" style="display:inline-block;">
               <div class="tab-pane fade show active" id="pills-team" role="tabpanel" aria-labelledby="pills-team-tab">
                 We are a group of TY students from Mount Mercy College, Cork interested in space and technology.<br/>
                 Our names are : Michelle Cummins, Kate O' Gorman, Iffah Shah, Eimear O' Sullivan, Laura O' Sullivan and Neena Thomas
