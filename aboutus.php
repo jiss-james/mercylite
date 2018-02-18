@@ -34,9 +34,6 @@
               What we are all about!
             </div>
             
-            <br/>
-            <br/>
-
           <div class="alert alert-light" role="alert" data-spy="scroll">
             <!--Tab and Content-->
             <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
@@ -63,13 +60,34 @@
                 The CanSat will also need a parachute so that it will land safely after launch from high altitide eg. from a rocket or a  drone.
               </div>
             </div>
-          </div>  
-          
+          </div>
               
         </div>
         
-        <!-- Footer -->
-        <?php include("footer.html") ?>
+        <br/>
+        <br/>
+        
+        <!-- Fixed Footer -->
+        <footer class="fixed-bottom">
+            <div class="container">
+                <span class="text-muted">Follow us on:</span>
+                <a href="https://www.facebook.com/mercy.lite.71" target="_new">
+                    <i class="fab fa-facebook"></i>
+                </a>
+                <a href="https://www.instagram.com/mercy_lite/?hl=en" target="_new">
+                    <i class="fab fa-instagram"></i>
+                </a>
+                <a href="https://twitter.com/mercy_lite" target="_new">
+                    <i class="fab fa-twitter"></i>
+                </a>
+                <a href="mailto:mercylitemmc@gmail.com" target="_new">
+                    <i class="fas fa-envelope"></i>
+                </a>
+                <a href="https://github.com/jiss-james/mercylite" target="_new">
+                    <i class="fab fa-github"></i>
+                </a>
+            </div>
+        </footer>   
         
     </body>
 </html>
