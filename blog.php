@@ -35,12 +35,44 @@
             </div>
             
             <br/>
-            <br/>
+            
+           <div class="alert alert-light" role="alert">
+                <dl class="row">
+                  <dt class="col-sm-3">13 Feb</dt>
+                  <dd class="col-sm-9">
+                      <dl class="row">
+                      <dt class="col-sm-4">Calibration Day</dt>
+                      <dd class="col-sm-8" style="text-align:left;">
+                        Today we decided to get some calibration done!!<br/>
+                        We got together in one of our houses and started working. We set up the Arduino and the laptop and also got a thermometer to measure the changing temperature. It was a pretty fun day!!
+                      </dd>
+                    </dl>
+                  </dd>
+                  
+                  <dt class="col-sm-3">16 Feb</dt>
+                  <dd class="col-sm-9">
+                      <dl class="row">
+                      <dt class="col-sm-4">Soldering Day</dt>
+                      <dd class="col-sm-8" style="text-align:left;">
+                        Today was a really important day for us- it was time for some soldering! We finished soldering the circuit board today for our primary mission. This board will then be connected to the arduino (a type of mini computer) and then placed inside our can to make the CanSat.<br/>
+                        Wow!! Now that's a big step for us!!<br/>
+                        <br/>
+                        <div class="text-center">
+                          <img src="images/blog2.1.jpeg" class="img-thumbnail" alt="Soldering Day Pic 1">
+                          <img src="images/blog2.2.jpeg" class="img-thumbnail" alt="Soldering Day Pic 2">
+                        </div>
+                      </dd>
+                    </dl>
+                  </dd>
+                </dl>
+            </div>
             
         </div>
         
-        <!-- Footer -->
-        <?php include("footer.html") ?>
+        <br/>
+        <br/>
+            
+        <?php include_once("fixedfooter.html") ?>
         
     </body>
 </html>

@@ -40,7 +40,7 @@
         </div>
         
         <!-- Footer -->
-        <?php include_once("footer.html") ?>
+        <?php include_once("stickyfooter.html") ?>
         
     </body>
 </html>

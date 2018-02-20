@@ -49,8 +49,7 @@
             </div>
         </div>
         
-        <!--Footer-->
-        <?php include("footer.html") ?>
+        <?php include("stickyfooter.html") ?>
         
     </body>
 </html>
