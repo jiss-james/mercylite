@@ -38,7 +38,7 @@
             <br/>
             <!--MercyLite Alert-->
             <div class="alert alert-light" role="alert">
-              <h4 class="alert-heading">Mercy Lite</h4>
+              <h4 class="alert-heading">MercyLite</h4>
               <p>We are a group of students from Mount Mercy taking part in the CanSat competion. Join us as we embark on this amazing journey to space and beyond!</p>
               <hr>
               <p class="mb-0">
