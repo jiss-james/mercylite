@@ -52,6 +52,11 @@
               <div class="tab-pane fade show active" id="pills-team" role="tabpanel" aria-labelledby="pills-team-tab">
                 We are a group of TY students from Mount Mercy College, Cork interested in space and technology.<br/>
                 Our names are : Michelle Cummins, Kate O' Gorman, Iffah Shah, Eimear O' Sullivan, Laura O' Sullivan and Neena Thomas
+                <br/>
+                <!--Add team pic-->
+                <center>
+                  <img id="logo" src="images/team.jpeg" class="img-thumbnail" alt="Logo">
+                </center>
               </div>
               <div class="tab-pane fade" id="pills-cansat" role="tabpanel" aria-labelledby="pills-cansat-tab">
                  A CanSat is a simulation of a real satellite,  contained within the volume of a 330ml soft-drinks can.<br/>

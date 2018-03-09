@@ -64,6 +64,66 @@
                       </dd>
                     </dl>
                   </dd>
+                  
+                  <dt class="col-sm-3">6 Mar</dt>
+                  <dd class="col-sm-9">
+                      <dl class="row">
+                      <dt class="col-sm-4">Outreach Day</dt>
+                      <dd class="col-sm-8" style="text-align:left;">
+                       Today we gave a 20 min presentation on CanSat to a 2nd year science class. We had a slideshow prepared and we talked to them about CanSat and also about MercyLite.<br/>
+                       We showed them our actual CanSat and explained to them how it works. They were very interested as they asked us loads of questions at the end!!!<br/>
+                      <br/>
+                      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                        <ol class="carousel-indicators">
+                          <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                          <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                          <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                          <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+                        </ol>
+                        <div class="carousel-inner">
+                          <div class="carousel-item active">
+                            <img class="d-block w-100" src="images/slide1.jpeg" alt="First slide">
+                          </div>
+                          <div class="carousel-item">
+                            <img class="d-block w-100" src="images/slide2.jpeg" alt="Second slide">
+                          </div>
+                          <div class="carousel-item">
+                            <img class="d-block w-100" src="images/slide3.jpeg" alt="Third slide">
+                          </div>
+                          <div class="carousel-item">
+                            <img class="d-block w-100" src="images/slide4.jpeg" alt="Fourth slide">
+                          </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                          <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                          <span class="sr-only">Next</span>
+                        </a>
+                      </div>
+                      </dd>
+                    </dl>
+                  </dd>
+                  
+                  <dt class="col-sm-3">7 Mar</dt>
+                  <dd class="col-sm-9">
+                      <dl class="row">
+                      <dt class="col-sm-4">Making the Frame</dt>
+                      <dd class="col-sm-8" style="text-align:left;">
+                        The frame is what will hold the satellite in place in the can.Using a drill we made holes in the metal frame that would let us attach the arduino and the parachute hook to the metal frame.<br/>
+                        After this we then bent the top part of the frame where the parachute hook was to go.Now we were ready to attach the arduino.
+                        Finally our frame was complete. The only thing left to do was to drill a hole in the bottom of the can to put the parachute hook through and to also drill smaller holes in the can for air to flow through it.<br/>
+                        <br/>
+                        <div class="text-center">
+                          <img src="images/frame1.jpeg" class="img-thumbnail" alt="Frame 1">
+                          <img src="images/frame2.jpeg" class="img-thumbnail" alt="Frame 2">
+                        </div>
+                      </dd>
+                    </dl>
+                  </dd>
+                  
                 </dl>
             </div>
             

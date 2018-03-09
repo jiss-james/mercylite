@@ -34,6 +34,11 @@
               Welcome to our project!
             </div>
             
+            <!--Add logo pic-->
+            <center>
+              <img id="logo" src="images/home_logo.jpeg" class="img-thumbnail" alt="Logo">
+            </center>
+            
             <br/>
             <br/>
             <!--MercyLite Alert-->
@@ -49,7 +54,11 @@
             </div>
         </div>
         
-        <?php include("stickyfooter.html") ?>
+        <br/>
+        <br/>
+        <br/>
+        
+        <?php include_once("fixedfooter.html") ?>
         
     </body>
 </html>
